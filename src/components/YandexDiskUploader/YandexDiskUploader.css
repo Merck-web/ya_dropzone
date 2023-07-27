@@ -1,0 +1,17 @@
+.upload_wrapper ul{
+    padding-left: 0;
+}
+.upload_wrapper li{
+    list-style: none;
+    text-align: left;
+}
+.upload_wrapper .btn{
+    padding: 10px 20px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    cursor: pointer;
+    outline: none;
+}
+.upload_wrapper .dropzone{
+    cursor: pointer;
+}
